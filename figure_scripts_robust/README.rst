@@ -2,6 +2,7 @@ Figure generation
 =================
 
 * The main scripts are
+
   * `figure_rmse.py` to generate the RMSE plots for the test models,
   * `figure_fits_and_weights.py` to generate the data fit and weights plots
     for the test models,
